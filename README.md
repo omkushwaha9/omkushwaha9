@@ -2,7 +2,7 @@
 
 ## My name is OM KUSHWAHA
 
-<h2 align="center">ReactJS developer | Web/App developer</h2>
+<h2 align="center">ReactJS | Web/App developer</h2>
 
 - ⏳ I’m currently working on Improving my Skills and Building new Projects<br>
 
